@@ -1,0 +1,19 @@
+{
+  "name": "asyncapiexperiments",
+  "version": "1.0.0",
+  "description": "experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iancooper/AsyncAPIExperiments.git"
+  },
+  "author": "iancooper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iancooper/AsyncAPIExperiments/issues"
+  },
+  "homepage": "https://github.com/iancooper/AsyncAPIExperiments#readme"
+}
