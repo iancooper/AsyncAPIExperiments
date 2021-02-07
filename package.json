@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/iancooper/AsyncAPIExperiments/issues"
   },
-  "homepage": "https://github.com/iancooper/AsyncAPIExperiments#readme"
+  "homepage": "https://github.com/iancooper/AsyncAPIExperiments#readme",
+  "dependencies": {
+    "@asyncapi/generator": "^1.1.7"
+  }
 }
